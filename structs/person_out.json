@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Jochen",
+    "shoe_size": 42,
+    "is_person?": true
+  },
+  {
+    "name": "Fritz",
+    "second_name": "Walter",
+    "is_person?": true,
+    "loves_cookies": true
+  },
+  {
+    "name": "Hab Ich",
+    "gender": "Vorhanden",
+    "is_person?": true,
+    "is_rich": true
+  }
+]

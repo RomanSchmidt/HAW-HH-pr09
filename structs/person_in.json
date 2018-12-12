@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Jochen",
+    "shoe_size": 42
+  },
+  {
+    "name": "Fritz",
+    "second_name": "Walter"
+  },
+  {
+    "name": "Hab Ich",
+    "gender": "Vorhanden"
+  }
+]
