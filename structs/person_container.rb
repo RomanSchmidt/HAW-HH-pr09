@@ -48,6 +48,7 @@ class PersonContainer
     File.open(JSON_OUTPUT_FILE, "w") do |f|
       f.write(JSON.pretty_generate(temp_hash))
     end
+    nil
   end
 
   private
